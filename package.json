@@ -2,13 +2,13 @@
   "name": "jenkins-api",
   "version": "0.2.8",
   "description": "Jenkins API written in Node.js",
-  "author": "Shawn Jansepar <shawnjan@gmail.com>",
+  "author": "Lior Ginsberg",
   "dependencies": {
     "request": ">= 2.2.9"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:jansepar/node-jenkins-api.git"
+  "repository" :
+  { "type" : "git",
+    "url" : "https://github.com/liorgins/node-jenkins-api.git"
   },
   "keywords": [
     "github",
